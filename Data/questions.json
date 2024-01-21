@@ -1,0 +1,35 @@
+[
+    {
+        "uuid": "1",
+        "type": "radio",
+        "label": "Quel est le plus grand mammifère terrestre?",
+        "choices": [
+            "Éléphant ",
+            "Girafe ",
+            "Lion ",
+            "Rhinocéros "
+        ],
+        "correct": "Éléphant"
+    },
+    {
+        "uuid": "2",
+        "type": "radio",
+        "label": "Quel  animal est un invertébré?",
+        "choices": [
+            "Araignée",
+            "Serpent",
+            "Renard",
+            "Tortue"
+        ],
+        "correct": "Araignée"
+    },
+    {
+        "uuid": "4",
+        "type": "text",
+        "label": "Quel est le plus grand animal du monde?",
+        "choices": [
+            " "
+        ],
+        "correct": "Baleine bleue"
+    }
+]

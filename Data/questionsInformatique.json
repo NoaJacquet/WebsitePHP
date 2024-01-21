@@ -1,0 +1,35 @@
+[
+    {
+        "uuid": "1",
+        "type": "radio",
+        "label": "Quel langage de programmation est souvent utilisé pour créer des pages web dynamiques?",
+        "choices": [
+            "Java ",
+            "Python ",
+            "HTML ",
+            "JavaScript "
+        ],
+        "correct": "JavaScript"
+    },
+    {
+        "uuid": "2",
+        "type": "radio",
+        "label": "Quelle est la fonction principale du langage SQL?",
+        "choices": [
+            "Gestion des styles ",
+            "Interactivité utilisateur ",
+            "BaseDeDonnées ",
+            "Calcul mathématique "
+        ],
+        "correct": "BaseDeDonnées"
+    },
+    {
+        "uuid": "3",
+        "type": "text",
+        "label": "Qu'est-ce que signifie l'acronyme HTML?",
+        "choices": [
+            " "
+        ],
+        "correct": "HyperText Markup Language"
+    }
+]
